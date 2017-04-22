@@ -1,5 +1,5 @@
 spring:
-  profiles: default
+  profiles: adas
   sessionTimeOutMinutes: 60
   min-passwd-length: 8
 
